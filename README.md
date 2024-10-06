@@ -1,4 +1,5 @@
 # Frost E-COMMERCE WEBSITE
-# Project Title
+
+## Home Page
 
 ![Project Logo](./pics/homePage.png)
