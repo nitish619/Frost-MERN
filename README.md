@@ -7,18 +7,18 @@ This e-commerce website is a modern online shopping platform developed using the
 ![Project Logo](./pics/homePage1.png)
 ![Project Logo](./pics/homePage2.png)
 
-##Category Page
+## Category Page
 ![Project Logo](./pics/categoryPage.png)
 
-##Cart Page
+## Cart Page
 ![Project Logo](./pics/cartPage.png)
 ![Project Logo](./pics/cartPage1.png)
 
-##Dashboard Page
+## Dashboard Page
 ![Project Logo](./pics/dashboardPage.png)
 
-##Register Page
+## Register Page
 ![Project Logo](./pics/registerPage.png)
 
-##Login Page
+## Login Page
 ![Project Logo](./pics/loginPage.png)
